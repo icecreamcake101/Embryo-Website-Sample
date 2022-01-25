@@ -234,7 +234,7 @@ span {
   color: #777;
   margin-bottom: 30px;
   font-size: 20px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Philosopher", sans-serif;
   font-weight: 300;
 }
 
@@ -252,7 +252,7 @@ span {
 }
 
 #hero .btn-get-started {
-  font-family: "Roboto", sans-serif;
+  font-family: "Philosopher", sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 13px;
@@ -671,7 +671,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 
 #aic .about-content h2 {
   color: #252525;
-  font-family: "roboto";
+  font-family: "Philosopher";
   font-size: 39px;
   font-weight: 100;
   letter-spacing: 2px;
@@ -720,7 +720,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
   margin-bottom: 0;
 }
 #feature .btn-get-started {
-  font-family: "Roboto", sans-serif;
+  font-family: "Philosopher", sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 13px;
@@ -736,7 +736,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
   text-decoration: none;
 }
  .btn-get-started {
-  font-family: "Roboto", sans-serif;
+  font-family: "Philosopher", sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 13px;
